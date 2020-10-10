@@ -1,1 +1,5 @@
-class 
+class ChangeDatatypeForBirthdate
+  
+  
+  
+end
